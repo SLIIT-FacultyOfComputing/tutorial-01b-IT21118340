@@ -5,6 +5,7 @@
 #include <stdio.h>
 
 int main() {
+// declaring variables
 	float subject1 = 0;
   float subject2 = 0;
 
